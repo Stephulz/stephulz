@@ -1,7 +1,7 @@
 <div align="center">
 
 ## 👋 Hello! Welcome to my Github profile.
-### Currently working as a fullstack developer
+### Currently working as a full stack developer
 
 <div>
   <br />
