@@ -22,6 +22,6 @@
   
 ### Contact me
 <div>
-  <a href="https://www.linkedin.com/in/stefan-s-aa7654a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank" width="100" height="30"></a>&nbsp
+  <a href="https://www.linkedin.com/in/stefan-s-aa7654a5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" width="100" height="30"></a>&nbsp
   <a href = "mailto:stefansanches9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100" height="30" target="_blank"></a>
 </div>
