@@ -1,16 +1,8 @@
 <div align="center">
 
-# 👋 Hello! Welcome to my GitHub profile
-
-### 💼 Full Stack Developer | Java • Spring • React • Angular • Azure
+  # 💼 Full Stack Developer | Java • Spring • React • Angular • Azure
 
 <br />
-
-<a href="https://github.com/stephulz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephulz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues,contribs&rank_icon=github" />
-</a>
-
-<br /><br />
 
 ## 🛠️ Tools & Technologies
 
